@@ -4,12 +4,12 @@ It looks like this:
 
 ![image](https://github.com/MrYangzhi/LED_CUBE/blob/master/image/image1.jpg)
 
-# Greedy Snake Game
+# Snake Game
 
-run greedy on LED CUBE
+run game on LED CUBE
 
 
-![image](https://github.com/MrYangzhi/LED_CUBE/blob/master/image/greedy_snake.gif)
+![image](https://github.com/MrYangzhi/LED_CUBE/blob/master/image/snake.gif)
 
 
 
