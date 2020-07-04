@@ -9,7 +9,7 @@ It looks like this:
 run greedy on LED CUBE
 
 
-![image](https://github.com/MrYangzhi/LED_CUBE/blob/master/image/snake1.jpg)
+![image](https://github.com/MrYangzhi/LED_CUBE/blob/master/image/greedy_snake.gif)
 
 
 
@@ -19,8 +19,8 @@ run greedy on LED CUBE
 I use ESP8266 module and WS2812.
 WS2812 data in connect to ESP8266 GPIO4
 
-![image](https://github.com/MrYangzhi/LED_CUBE/blob/master/image/esp8266.jpg)
-![image](https://github.com/MrYangzhi/LED_CUBE/blob/master/image/ws2812.jpg)
+![image](https://github.com/MrYangzhi/LED_CUBE/blob/master/image/esp8266.png)
+![image](https://github.com/MrYangzhi/LED_CUBE/blob/master/image/ws2812.png)
 
 ## 2000mah Li battery
 
